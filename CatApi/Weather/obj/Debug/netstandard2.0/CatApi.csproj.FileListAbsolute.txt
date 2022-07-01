@@ -1,0 +1,17 @@
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.csproj.AssemblyReference.cache
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.AssemblyInfoInputs.cache
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.AssemblyInfo.cs
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.csproj.CoreCompileInputs.cache
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\bin\Debug\netstandard2.0\CatApi.deps.json
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\bin\Debug\netstandard2.0\CatApi.dll
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\bin\Debug\netstandard2.0\ref\CatApi.dll
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\bin\Debug\netstandard2.0\CatApi.pdb
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\Views\CatsListPage.xaml.g.cs
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\Views\CreateOrEditCatPage.xaml.g.cs
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.dll
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\ref\CatApi.dll
+C:\Users\Guest\source\repos\CatApi\CatApi\CatApi\obj\Debug\netstandard2.0\CatApi.pdb
